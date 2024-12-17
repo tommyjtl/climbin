@@ -165,3 +165,5 @@ captions/
 metadata/
 posts/
 thumbnails/
+
+.DS_Store
